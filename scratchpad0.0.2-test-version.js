@@ -6,6 +6,10 @@
 // @author         Tommaso Celano
 // @version        0.0.2-alphabuild
 // ==/UserScript==
+// ==OpenUserJS==
+// @updateURL https://openuserjs.org/meta/vecchiotom/GoogleBeautifulAdder.meta.js
+// @author vecchiotom
+// ==/OpenUserJS==
 
 	function $(id) {
 		return document.getElementById(id);
@@ -16,10 +20,8 @@
         $('viewport').style.background = "url(https://images7.alphacoders.com/351/351342.jpg) top left no-repeat";
 				$('hplogo').title = 'Now Google is more beautiful';
 		    $('lst-ib').value = "Make a beautiful search!!!";
-		    $('fbar').style.margin = '290px auto';
-		    //don't watch at next line... it's only for a test... it will be patched in official 0.0.2 version!!!
-		    $('fbar').innerHTML = 'ciaoregaa'
-				//this script is not completed! this is only the 0.0.2 test build! more version to be expected in next months!!!
+		    $('fbar').style.margin = '550px auto';
+		    $('fbar').innerHTML = '<input type="submit" value="Search .gif images" style=" margin: 0 auto;"><input type="submit" value="Search .jpg images" style=" margin: 0 auto;"><input type="submit" value="Search .jpg images" style=" margin: 0 auto;"><input type="submit" value="Search .jpg images" style=" margin: 0 auto;"><input type="submit" value="Search .jpg images" style=" margin: 0 auto;">'
 		    
    
 
