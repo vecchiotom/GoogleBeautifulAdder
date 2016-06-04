@@ -1,7 +1,6 @@
 # GoogleBeautifulAdder
 a script that makes google more beautiful!
 
-# HERE YOU CAN FIND THE TESTING-VERSIONS! PLEASE SEND ME ALL ISSUES YOU'VE ENCOUNTERED USING THIS VERSIONS!!!
 
 this script manipulate google and make it more beautiful! this script is my first script and is still in progress... 
 in the 0.0.2 version there will a lot of new functions!
