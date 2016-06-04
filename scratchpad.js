@@ -4,6 +4,7 @@
 // @description    Add new styles and remove many unuseful stuff from google.
 // @include        *
 // @author         Tommaso Celano
+// @version        0.0.2-alphabuild
 // ==/UserScript==
 
 	function $(id) {
