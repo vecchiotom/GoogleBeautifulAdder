@@ -14,8 +14,12 @@
 	function clearInterface(){
         
         $('viewport').style.background = "url(https://images7.alphacoders.com/351/351342.jpg) top left no-repeat";
-				$('hplogo').style.title = 'now Google is more beautiful!!!';
-				//this script is not completed! this is only the 0.0.1 alpha build! more version to be expected in next months!!!
+				$('hplogo').title = 'Now Google is more beautiful';
+		    $('lst-ib').value = "Make a beautiful search!!!";
+		    $('fbar').style.margin = '290px auto';
+		    //don't watch at next line... it's only for a test... it will be patched in official 0.0.2 version!!!
+		    $('fbar').innerHTML = 'ciaoregaa'
+				//this script is not completed! this is only the 0.0.2 test build! more version to be expected in next months!!!
 		    
    
 
@@ -27,4 +31,3 @@
 
 
 	clearInterface();
-
