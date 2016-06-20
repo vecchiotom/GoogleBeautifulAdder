@@ -21,8 +21,7 @@
         $('viewport').style.background = "url(https://images7.alphacoders.com/351/351342.jpg) top left no-repeat";
 				$('hplogo').title = 'Now Google is more beautiful';
 		    $('lst-ib').value = "Make a beautiful search!!!";
-		    $('fbar').style.margin = '550px auto';
-		    $('fbar').innerHTML = '<input type="submit" value="Search .gif images" style=" margin: 0 auto;"><input type="submit" value="Search .jpg images" style=" margin: 0 auto;"><input type="submit" value="Search .jpg images" style=" margin: 0 auto;"><input type="submit" value="Search .jpg images" style=" margin: 0 auto;"><input type="submit" value="Search .jpg images" style=" margin: 0 auto;">'
+		   
 		    
    
 
